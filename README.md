@@ -50,7 +50,7 @@ late-show-api-challenge/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/<your-username>/late-show-api-challenge.git
+git clone https://github.com/LAETITIA-hub/late-show-api-challenge.git
 cd late-show-api-challenge
 ```
 
@@ -286,9 +286,9 @@ Content-Type: application/json
 
 ## 📎 GitHub Repo
 
-https://github.com/<your-username>/late-show-api-challenge
+https://github.com/LAETITIA-hub/late-show-api-challenge.git
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Laetitia Kamangu]**
 
